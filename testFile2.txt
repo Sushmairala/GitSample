@@ -1,2 +1,6 @@
 Just created file for training
 dfsdfsd
+
+added soem lines to merge in develop branch
+:wq
+
